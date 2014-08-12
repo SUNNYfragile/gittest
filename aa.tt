@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 this comes from aaa branch??
 this comes from bb branch
+=======
+this is an add;1
+>>>>>>> e70d223a6ce363455b61e78af515c70671f5e903
